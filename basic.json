@@ -1,0 +1,7 @@
+{
+    "Resources" : {
+        "WCH" : {
+            "Type" : "AWS::CloudFormation::WaitConditionHandle"
+        }
+    }
+}
